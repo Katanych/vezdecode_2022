@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Pin-Code</string>
+    <string name="enter_PIN">Введите пин-код</string>
+    <string name="sign_up_PIN">Зарегистрируйте пин-код</string>
+    <string name="pin_created">Пин-код создан</string>
+    <string name="enter_pin_error">Неверный пин-код</string>
+    <string name="enter_pin_ok">Успешно</string>
+    <string name="tv_one">1</string>
+    <string name="tv_two">2</string>
+    <string name="tv_tree">3</string>
+    <string name="tv_four">4</string>
+    <string name="tv_five">5</string>
+    <string name="tv_six">6</string>
+    <string name="tv_seven">7</string>
+    <string name="tv_eight">8</string>
+    <string name="tv_nine">9</string>
+    <string name="tv_zero">0</string>
+</resources>
